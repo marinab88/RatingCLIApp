@@ -16,7 +16,7 @@
 // show users list
 // rate user
 
-import { showUsers, addUser } from './utils.mjs'
+import { showUsers, addUser, rateUser } from './utils.mjs'
 
 // addUser()
 
@@ -31,3 +31,4 @@ import { showUsers, addUser } from './utils.mjs'
 
 
 showUsers()
+// rateUser();
